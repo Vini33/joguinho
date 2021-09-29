@@ -95,7 +95,6 @@ function result(id){
     if(num == sequencia.length){
         message.innerHTML = "parabens voce acertou a sequencia !!!"
     }
-    //console.log(sequencia)
 }
 
 function errou(){
@@ -105,6 +104,3 @@ function errou(){
 }
 
 start()
-console.log(valores)
-console.log(chave)
-//returnid(4)
